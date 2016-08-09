@@ -1,1 +1,0 @@
-# from configuration import MYSQL_SETTINGS, MONGODB_SETTINGS, PER_PAGE
